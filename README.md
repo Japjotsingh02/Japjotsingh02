@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+3. **[Time Table Notifier](https://github.com/yourusername/timetable-notifier)** *(WIP)*  
+   - Next.js + Capacitor.js for cross-platform alerts
 -->
 
 # Hi there 👋 I'm Japjot Singh
@@ -36,24 +39,19 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
 
 ## 🚀 Featured Projects
-1. **[Bizpilot AI Dashboard](https://github.com/yourusername/bizpilot-demo)**  
+1. **[Bizpilot](https://github.com/BizPilotHQ)**  
    - Real-time financial analytics with 95% data accuracy  
    - Reduced load times by 45% via code-splitting
 
 2. **[E-Matdaan](https://github.com/Japjotsingh02/E-matdaan-new)**  
-   - Web3 voting dApp with MetaMask integration  
-   - End-to-end encrypted results
-
-3. **[Time Table Notifier](https://github.com/yourusername/timetable-notifier)** *(WIP)*  
-   - Next.js + Capacitor.js for cross-platform alerts
+   - Web3 voting dApp with MetaMask integration
 
 ## 📈 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/Japjotsingh02)
 
 ## 💡 Currently Learning
 - Advanced Next.js (App Router, Server Actions)  
 - LLM integration patterns (LangChain, OpenAI)
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=flat)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/japjot-singh-9a7b541a8)
