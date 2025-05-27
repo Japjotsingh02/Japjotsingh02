@@ -47,7 +47,7 @@ Here are some ideas to get you started:
    - Web3 voting dApp with MetaMask integration
 
 ## 📈 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/Japjotsingh02)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Japjotsingh02&show_icons=true&theme=radical)](https://github.com/Japjotsingh02)
 
 ## 💡 Currently Learning
 - Advanced Next.js (App Router, Server Actions)  
