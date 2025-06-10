@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack
 **Frontend:**  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
