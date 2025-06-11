@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 # Hi there 👋 I'm Japjot Singh
 
-**Frontend Engineer** specializing in React.js, TypeScript, and AI-integrated UIs  
+**Frontend Engineer** specializing in React.js, TypeScript, and AI-integrated UIs 
 ✨ Passionate about building performant, user-centric applications
+✨ Learning Advanced Next.js (App Router, Server Actions) and LLM integration patterns (LangChain, OpenAI)
 
 ## 🛠️ Tech Stack
 <div align="left">
@@ -77,10 +78,6 @@ Here are some ideas to get you started:
 <img src="https://streak-stats.demolab.com?user=Japjotsingh02&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 <img src="https://github-profile-trophy.vercel.app?username=Japjotsingh02&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-## 💡 Currently Learning
-- Advanced Next.js (App Router, Server Actions)  
-- LLM integration patterns (LangChain, OpenAI)
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/japjot-singh-9a7b541a8)
