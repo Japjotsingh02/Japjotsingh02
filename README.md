@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 # Hi there 👋 I'm Japjot Singh
 
-**Frontend Engineer** specializing in React.js, TypeScript, and AI-integrated UIs 
-✨ Passionate about building performant, user-centric applications
-✨ Learning Advanced Next.js (App Router, Server Actions) and LLM integration patterns (LangChain, OpenAI)
+**Frontend Engineer** specializing in React.js, TypeScript, and AI-integrated UIs   
+✨ Passionate about building performant, user-centric applications    
+✨ Learning Advanced Next.js (App Router, Server Actions) and LLM integration patterns (LangChain, OpenAI) 
 
 ## 🛠️ Tech Stack
 <div align="left">
