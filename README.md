@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 # Hi there 👋 I'm Japjot Singh
 
-**Frontend Engineer** specializing in React.js, TypeScript, and AI-integrated UIs   
+**Frontend Engineer** specializing in React.js, Next.js, TypeScript, and AI-integrated UIs   
 ✨ Passionate about building performant, user-centric applications    
-✨ Learning Advanced Next.js (App Router, Server Actions) and LLM integration patterns (LangChain, OpenAI) 
+✨ Learning Advanced Next.js and LLM integration patterns (LangChain, OpenAI) 
 
 ## 🛠️ Tech Stack
 <div align="left">
@@ -69,6 +69,9 @@ Here are some ideas to get you started:
 1. **[Bizpilot](https://github.com/BizPilotHQ)**  
    - Real-time financial analytics with 95% data accuracy  
    - Reduced load times by 45% via code-splitting
+  
+2. **[Condra](https://github.com/Coindra)**  
+   - 
 
 2. **[E-Matdaan](https://github.com/Japjotsingh02/E-matdaan-new)**  
    - Web3 voting dApp with MetaMask integration
