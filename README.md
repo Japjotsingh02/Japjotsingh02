@@ -70,7 +70,7 @@ Here are some ideas to get you started:
    - Real-time financial analytics with 95% data accuracy  
    - Reduced load times by 45% via code-splitting
   
-2. **[Condra](https://github.com/Coindra)**  
+2. **[Coindra](https://github.com/Japjotsingh02/Coindra)**  
    - 
 
 2. **[E-Matdaan](https://github.com/Japjotsingh02/E-matdaan-new)**  
