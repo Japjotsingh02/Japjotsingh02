@@ -71,7 +71,7 @@ Here are some ideas to get you started:
    - Reduced load times by 45% via code-splitting
   
 2. **[Coindra](https://github.com/Japjotsingh02/Coindra)**  
-   - 
+   - Reduced load times by 45% via code-splitting
 
 2. **[E-Matdaan](https://github.com/Japjotsingh02/E-matdaan-new)**  
    - Web3 voting dApp with MetaMask integration
